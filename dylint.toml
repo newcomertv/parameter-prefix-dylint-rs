@@ -1,0 +1,6 @@
+[workspace.metadata.dylint]
+libraries = [
+    # { git = "https://github.com/trailofbits/dylint", pattern = "examples/general" },
+    # { git = "https://github.com/trailofbits/dylint", pattern = "examples/restriction/try_io_result" },
+    { path = "."}
+]
