@@ -1,4 +1,4 @@
 [workspace.metadata.dylint]
 libraries = [
-    { git = "https://github.com/newcomertv/parameter-prefix-dylint-rs"}
+    { path = "."}
 ]
